@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">"I am a DevOps Engineer who has recently completed my B.Tech in Information Technology from IK Gujral Punjab Technical University with a CGPA of 7.41. I am passionate about cloud development and DevOps practices, continuously exploring technologies such as AWS, Docker, Terraform, and Ansible to enhance my skills and contribute effectively to the field."</h2>
+<h2 align="left">"I am a DevOps Engineer who has recently completed my B.Tech in Information Technology from IK Gujral Punjab Technical University. I am passionate about cloud development and DevOps practices, continuously exploring technologies such as AWS, Docker, Terraform, and Ansible to enhance my skills and contribute effectively to the field."</h2>
 
 ###
 
